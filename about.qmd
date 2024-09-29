@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+Tratando de hacer cambios
+
 ```{r}
 1 + 1
 ```
