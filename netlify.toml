@@ -1,6 +1,6 @@
 [build]
-  publish = "_site"  # Directorio de salida donde Quarto coloca los archivos generados
-  command = "quarto render"  # Comando para construir el sitio
+  publish = "_site"  
+  command = "quarto render" 
 
 [[plugins]]
-  package = "@quarto/netlify-plugin-quarto"  # Plugin de Quarto para Netlify
+  package = "@quarto/netlify-plugin-quarto" 
