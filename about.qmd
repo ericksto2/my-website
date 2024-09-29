@@ -5,6 +5,8 @@ title: "About"
 About this site
 Algo de contendio
 
+Algo de contenido 2
+
 ```{r}
 1 + 1
 ```
