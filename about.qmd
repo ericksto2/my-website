@@ -3,6 +3,7 @@ title: "About"
 ---
 
 About this site
+Algo de contendio
 
 ```{r}
 1 + 1
