@@ -1,6 +1,6 @@
 [build]
+  command = "apt-get update && apt-get install -y quarto && quarto render"
   publish = "_site"  
-  command = "quarto render" 
 
   [[plugins]]
   package = "@quarto/netlify-plugin-quarto" 
