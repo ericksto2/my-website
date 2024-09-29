@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: fbb36764-5608-42c3-870e-04de650126e1
+      url: 'https://cursosfinancieros.netlify.app'
