@@ -1,5 +1,5 @@
 [build]
-  command = "curl -fsSL https://github.com/quarto-dev/quarto-cli/releases/latest/download/quarto-linux-amd64.deb -o quarto.deb && dpkg -i quarto.deb && quarto render"
+  command = "quarto render"
   publish = "_site"  
 
   [[plugins]]
